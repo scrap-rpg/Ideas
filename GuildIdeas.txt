@@ -1,0 +1,54 @@
+SCRAP RPG
+
+GUILD SYSTEM (Classes and Sub-classes)
+
+Warrior: ADV(Physical stats) DIS(Magic stats)
+
+	Knight: ADV(More respect, ELO) DIS(see above)
+	
+		Fire  -> Dragoon (Specializes in Dragons, mounts?) Lance
+		Earth -> *Tank   (Can withstand large amounts of damage, no spells, better armour) Hammer
+		Water -> Paladin (Powers of Light, better against Dark monsters) Lance
+		Air   -> Samurai (No shield, more piercing and accuracy, and more spells, dual wield swords) Katana
+		
+	Berserker: ADV(More damage and tension, monsters are less likely to attack) DIS(see above)
+	
+		Fire  -> *Infernus (Can burst into flames when HP is low, boosts stats like boss monsters) 
+		Earth -> Warlock   (Shares body with a powerful spirit, can use spells) **Also leads from Mage path**
+		
+Mage: ADV(Magic stats, more spells) DIS(Physical stats) Staffs
+
+	Sorcerer: ADV(More spells) DIS(see above)
+	
+		Fire  -> Pyromancer (Fire-based spells, can burn monsters)
+		Water -> Meric      (Healer-based spells, can drain stats from monsters)
+		Air   -> Cyromancer (Ice-based spells, can freeze monsters)
+
+	Druid: ADV(Alchemy, potions, crafting) DIS(see above)
+	
+		Fire  -> Alchemist (Can use alchemy for free, and can combine items in-battle)
+		Earth -> Shaman    (Spirit-based spells, can control monsters in-battle)
+		Water -> Meric     (Healer-based spells, can drain stats from monsters)
+		Air   -> Sage      (Healer-based spells, can boost team members) **Also leads from Cleric path**
+		
+Fighter: ADV(Speed, balanced) DIS(Weaker physically)
+
+	Ranger: ADV(Ranged weapon advantages, basic healing) DIS(see above) Bow, Whip, Javelins
+	
+		Earth -> Gypsy    (Similar to Shaman, with less spells)
+		Water -> Whiplash (Whip abilities galore!, dual wield whips)
+		Air   -> 
+		
+	Rogue: ADV(Cloaking, better escape chance, many more abilities) DIS(Starts off weak)
+	
+		Fire  -> Shinobi
+		Earth -> Shinobi
+		Water -> Shinobi
+		Air   -> Shinobi
+		
+	Gladiator: ADV(Access to special weapon types, dual wield) DIS(less spells and abilities)
+	
+		Fire  -> 
+		Earth -> 
+		Water -> (can snag enemies in net) Net
+		Air   -> 
