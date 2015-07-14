@@ -1,3 +1,6 @@
+Changes:
+	[Richard] <have a look at the rules>
+
 SCRAP RPG
 
 GUILD SYSTEM (Classes and Sub-classes)
