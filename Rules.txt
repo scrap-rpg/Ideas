@@ -1,9 +1,14 @@
 Changes:
 	[Richard] [6:19 PM 2015-07-14] Added Rules.
+	[Richard] [6:08 PM 2015-07-15] Fixed up rules; added Change.txt to Rule 3
 
 Rules:
 	1. All ideas must be in a tiered manner
+
 	2. All comments must in <this form>
-	3. All additions added must be documented in the top of the file
-	   with the date and time in the above format
+
+	3. All changes added must be documented in the top of the file, and in Changes.txt
+	with the date and time in the format:
+		[Name] [Time] Changes
+
 	4. Ideas with different topics must be in different files

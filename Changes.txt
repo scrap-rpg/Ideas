@@ -1,0 +1,11 @@
+Rules:
+	Changes should be documented here as well as the top of the document
+	Please do not document the changes to Changes.txt; we do not want infinite loops
+
+Changes:
+	Rules.txt:
+		[Richard]: Initalized and added rules[5:41 PM 2015-07-15]
+	
+	GuildIdeas.txt:
+		[Andy]: Initialized and added Guild System information [???]
+		[Richard]: Added Changes section and added comment [??? 2015-07-14]
