@@ -2,7 +2,7 @@ Changes/Comments:
 	[Andy] Initialized and added Guild information
 	[Richard] <have a look at the rules> [??? 2015-07-14]
 	[Richard] Changed Elo to Honor <Elo is reserved for multiplayer ratings> [10:12 PM 2015-07-15]
-
+	[Richard] Renamed GuildIdeas.txt to Guild.txt [6:29 PM 2015-07-25]
 SCRAP RPG
 
 GUILD SYSTEM (Classes and Sub-classes)

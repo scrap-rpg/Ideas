@@ -6,6 +6,7 @@ Changes:
 	Rules.txt:
 		[Richard]: Initalized and added rules[5:41 PM 2015-07-15]
 	
-	GuildIdeas.txt:
+	Guild.txt:
 		[Andy]: Initialized and added Guild System information [???]
 		[Richard]: Added Changes section and added comment [??? 2015-07-14]
+		[Richard] Renamed GuildIdeas.txt to Guild.txt [6:29 PM 2015-07-25]
