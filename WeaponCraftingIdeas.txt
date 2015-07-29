@@ -9,8 +9,13 @@ Changes/Comments:
 		- Important terms are now single-quoted the first time they come into use
 		- Quoted terms will later be added in the dictionary
 		- Use of word 'ability' will now refer to in-battle abilities. 
-		'Skills' will be specializations that a player can unlock (forging, crafting, fletching, etc.)
-
+		- 'Skills' will be specializations that a player can unlock (forging, crafting, fletching, etc.)
+	[Richard] [8:35 PM 2015-07-28]
+		- Fixed some stuff
+		- Comments:
+			All: <This is really great>
+			Weapon Types: <ability to craft consumables?>
+			
 Concept:
 
 	Players can use in-game items to 'craft' weapons, which have specific recipes. To make these weapons stronger, they can 'forge' them with
@@ -34,14 +39,14 @@ Spear		R/M			Shaft, Pole			Warrior, Fighter
 Staff		MA/M		Orb, Pole			Mage
 Bow			R			Frame, String		All
 Hammer		M			Head, Handle		Warrior, Fighter
-Axe			M			Head, Handle	Warrior
+Axe			M			Head, Handle		Warrior
 Whip		R			Lash, Handle		Fighter
 ------------------------------------------------------------
 Note: All preset weapons are variations of the above classes.
 
 Traditional Crafting:
 
-All weapons are made up of 'parts', which  are combined to craft the weapon. Recipes for weapon crafting are simply a list
+All weapons are made up of 'parts', which are combined to craft the weapon. Recipes for weapon crafting are simply a list
 of parts that the player must have upon crafting (which will be used up after crafting). Players can buy, find, or craft 
 specific parts throughout The Game (HAH GOT YAH XD), for crafting. Preset weapons with recipes need parts that fit them.
 
@@ -49,7 +54,7 @@ Example: 	Iron Broadsword  = Iron Blade + Iron Hilt
 			Staff of Light   = Holy Orb + Driftwood Pole
 
 Custom-Crafting:
-
+[Richard] <this would be somewhat hard to code>
 Players with this skill can access a GUI with various slots. In this GUI, they can place parts in their slots to combine them with
 other compatible slots to create weapons that suit their specific needs. Bow and Whip type weapons though, require their own seperate
 GUIs, as their parts aren't compatible with others. If a custom recipe is original, the player gets to name the weapon. But if a custom 
