@@ -1,0 +1,63 @@
+SCRAP RPG
+
+WEAPON CRAFTING/FORGING
+
+Changes/Comments:
+
+	[Andy] [3:28 PM 2015-07-28]
+		- Initialised, added concept
+		- Important terms are now single-quoted the first time they come into use
+		- Quoted terms will later be added in the dictionary
+		- Use of word 'ability' will now refer to in-battle abilities. 
+		'Skills' will be specializations that a player can unlock (forging, crafting, fletching, etc.)
+
+Concept:
+
+	Players can use in-game items to 'craft' weapons, which have specific recipes. To make these weapons stronger, they can 'forge' them with
+	various materials, or 'enchant' them if they have the skill. Players can only craft weapons that they have the recipes for.
+	Players can learn new recipes through leveling-up, quests, NPCs, and scrolls that they find throughout their journey. 
+	Upon reaching a certain level, all the Warrior classes unlock the Forging skill. 
+	Upon reaching a certain level, all the Mage classes unlock the Enchanting skill. 
+	Players have access to preset recipes, but if they have the "Custom-Crafting" skill, they can craft specialized weapons.
+	
+Weapon Types Info Chart: 
+
+M   - Melee
+R   - Ranged
+MA	- Magic
+
+------------------------------------------------------------
+NAME		TYPE		PARTS NEEDED		CLASSES
+
+Sword   	M			Blade, Hilt			All
+Spear		R/M			Shaft, Pole			Warrior, Fighter
+Staff		MA/M		Orb, Pole			Mage
+Bow			R			Frame, String		All
+Hammer		M			Head, Handle		Warrior, Fighter
+Axe			M			Head, Handle	Warrior
+Whip		R			Lash, Handle		Fighter
+------------------------------------------------------------
+Note: All preset weapons are variations of the above classes.
+
+Traditional Crafting:
+
+All weapons are made up of 'parts', which  are combined to craft the weapon. Recipes for weapon crafting are simply a list
+of parts that the player must have upon crafting (which will be used up after crafting). Players can buy, find, or craft 
+specific parts throughout The Game (HAH GOT YAH XD), for crafting. Preset weapons with recipes need parts that fit them.
+
+Example: 	Iron Broadsword  = Iron Blade + Iron Hilt
+			Staff of Light   = Holy Orb + Driftwood Pole
+
+Custom-Crafting:
+
+Players with this skill can access a GUI with various slots. In this GUI, they can place parts in their slots to combine them with
+other compatible slots to create weapons that suit their specific needs. Bow and Whip type weapons though, require their own seperate
+GUIs, as their parts aren't compatible with others. If a custom recipe is original, the player gets to name the weapon. But if a custom 
+recipe coincides with a preset recipe, the weapon's name shows up as the preset's, not what the player names it.
+
+Example:
+
+The combination below would result in a Pole-Axe. 
+
+HEAD		HEAD		BODY			END
+Iron Shaft	Axe-Head	Wooden Pole		None
