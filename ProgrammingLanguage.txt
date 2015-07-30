@@ -1,0 +1,39 @@
+Programming Language Ideas
+
+Changes/Comments:
+	[Richard] Initialzed [8:35 PM 2015-07-28]
+	
+Languages:
+
+	JavaScript DOM/Canvas (HTML5 Canvas/CSS/JS/JQuery/AngularJS):
+		Pros:
+			Has an interface
+			Simple Languages
+		Cons:
+			Multiple Languages
+			Weak Types
+			Not suitable for larger projects (> 1000 lines)
+	
+	Python:
+		Pros:
+			Python syntax (is absolutely amazing and elegant and beautiful and simplistic, etc.)
+			Object-Oriented
+			Familiar
+		Cons:
+			No interface (without some third-party canvas)
+			Not suitable for larger projects, though it is viable
+	
+	C#:
+		Pros:
+			High-Level Language
+			Object-Oriented (Class-Oriented too)
+			Suitable for large projects
+			Easy to code and deploy
+			Supports Visual Interfaces
+		Cons:
+			Windows OS Only
+			Unfamiliar syntax
+				Needs to be learned
+				More Debugging Time
+			
+			
