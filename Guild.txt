@@ -2,7 +2,33 @@ Changes/Comments:
 	[Andy] Initialized and added Guild information
 	[Richard] <have a look at the rules> [??? 2015-07-14]
 	[Richard] Changed Elo to Honor <Elo is reserved for multiplayer ratings> [10:12 PM 2015-07-15]
-	[Richard] Renamed GuildIdeas.txt to Guild.txt [6:29 PM 2015-07-25]
+	[Andy] Just some notes: [2:15 PM 2015-07-25]
+		- Level Scaling refers to how the stats increase with each level up
+		- Sub-Classes that have an asterisk before their name are the "Elite" Class of their element (eg. Tank)
+		- Some Sub-Classes (noted as: **subclass**) belong to two parent Classes due to similarties from both (eg. Warlock)
+		- Starred Sub-Class specials belong specifically to that Sub-Class. Others may be shared amongst Classes
+	[Andy] Changed Whiplash to Beast Master, added new skill to Beast Master [2:42 PM 2015-07-25]
+	[Andy] [4:10 PM 2015-07-25]
+		- Changed Gypsy to Hunter, added abilities
+		- Added Dimachaeron, Retiarion, and Spartan with abilities
+		- Gladiators can use custom-crafting to craft weapons that don't  have specific recipes (hybrid weapons, specialised weapons, eg.)
+		- Changed Meric (Sorcerer) to Hydromancer, changed Sorcerer's Sub-Classes abilities to element-based spells
+		- Changed Air Ranger to Marksman, added Arrow Crafting and Bow abilities
+		- Removed weapon lists beside Classes <It would be more efficient to have a chart of weapons and classes that they're availible to other than to repeat>
+		- "Knowledge" refers to the recipes known for potions, crafting, abilities, enchantments, and spells initially
+			- Knowledge of a <item>  refers to access to spells, abilities, recipes, and enchantments of that specific item
+		- "Piercing" (aka. Accuracy) refers to the percentage of damage that ignores armour
+		- "Enchantment" refers to a spell cast on an item or piece of equipment, as opposed to a normal spell, which affects a Player or Monster 
+		- "Entity" is a general term for Players and Monsters
+		- "Tension" refers to a state in which the affected entity builds up damage for each turn that it decides not to attack.
+		  When it does attack, the state ends, and damage goes back to normal
+		- "Alchemy" refers to the combination of items to create new ones, usually with combined traits
+	[Andy] [11:55 AM 2015-07-28]
+		- I think I added/changed so much that this barely resembles the original
+		- Let's just say that at least 50% of the file has been modified, and that it would double the length of the file to document it all
+		- Heheh, sorry :)
+		- I guess I got carried away...
+		
 SCRAP RPG
 
 GUILD SYSTEM (Classes and Sub-classes)
@@ -11,49 +37,48 @@ Warrior: ADV(Physical stats) DIS(Magic stats)
 
 	Knight: ADV(More respect, HONOR) DIS(see above)
 	
-		Fire  -> Dragoon (Specializes in Dragons, mounts?) Lance
-		Earth -> *Tank   (Can withstand large amounts of damage, no spells, better armour) Hammer
-		Water -> Paladin (Powers of Light, better against Dark monsters) Lance
-		Air   -> Samurai (No shield, more piercing and accuracy, and more spells, dual wield swords) Katana
+		Fire  -> Dragoon (*Specializes in Dragons)
+		Earth -> *Tank   (Higher DEF, Slow, *No spells, Access to more armour)
+		Water -> Paladin (*Knowledge of Light, *Better against Dark monsters, Knowledge of enchantments)
+		Air   -> Samurai (No shield, More piercing, Knowledge of spells, Dual wield swords)
 		
-	Berserker: ADV(More damage and tension, monsters are less likely to attack) DIS(see above)
+	Berserker: ADV(More ATK and tension, Knowledge of spells) DIS(No shield)
 	
-		Fire  -> *Infernus (Can burst into flames when HP is low, boosts stats like boss monsters) 
-		Earth -> Warlock   (Shares body with a powerful spirit, can use spells) **Also leads from Mage path**
+		Fire  -> *Infernus (*Can burst into flames when HP is low, *Boosts stats like boss monsters when HP low) 
+		Earth -> Warlock   (*Shares body with a powerful spirit, Knowledge of Spirits) **Also leads from Sorcerer (Mage) path**
 		
-Mage: ADV(Magic stats, more spells) DIS(Physical stats) Staffs
+Mage: ADV(Magic stats, Increased knowledge of spells, *Talismen Access) DIS(Physical stats)
 
-	Sorcerer: ADV(More spells) DIS(see above)
+	Sorcerer: ADV(Increased knowledge of spells) DIS(see above)
 	
-		Fire  -> Pyromancer (Fire-based spells, can burn monsters)
-		Water -> Meric      (Healer-based spells, can drain stats from monsters)
-		Air   -> Cyromancer (Ice-based spells, can freeze monsters)
+		Fire  -> Pyromancer  (Increased knowledge of Fire-based spells) 
+		Water -> Hydromancer (Increased knowledge of Water-based spells)
+		Air   -> Cyromancer  (Increased knowledge of Ice-based spells)
 
-	Druid: ADV(Alchemy, potions, crafting) DIS(see above)
+	Druid: ADV(Knowledge of alchemy, potions, crafting) DIS(see above)
 	
-		Fire  -> Alchemist (Can use alchemy for free, and can combine items in-battle)
-		Earth -> Shaman    (Spirit-based spells, can control monsters in-battle)
-		Water -> Meric     (Healer-based spells, can drain stats from monsters)
-		Air   -> Sage      (Healer-based spells, can boost team members) **Also leads from Cleric path**
+		Fire  -> Alchemist (*Increased knowledge of Alchemy, *Can use alchemy in-battle)
+		Earth -> Shaman    (*Increased knowledge of Spirit-based spells, Can control monsters in-battle)
+		Water -> Meric     (Increased knowledge of Healer-based spells, Can drain stats from monsters)
+		Air   -> Sage      (Increased knowledge of Healer-based spells, Can boost team members)
 		
-Fighter: ADV(Speed, balanced) DIS(Weaker physically)
+Fighter: ADV(Balanced stats, Combination of Mage and Warrior) DIS(Weaker physically)
 
-	Ranger: ADV(Ranged weapon advantages, basic healing) DIS(see above) Bow, Whip, Javelins
+	Ranger: ADV(Ranged weapon advantages, Knowledge of healing spells and abilities) DIS(see above)
 	
-		Earth -> Gypsy    (Similar to Shaman, with less spells)
-		Water -> Whiplash (Whip abilities galore!, dual wield whips)
-		Air   -> 
+		Earth -> Hunter       (Increased knowledge of Monsters overall, Knowledge of Ranged weapons)
+		Water -> Beast Master (Increased knowledge of whips, *Dual wield whips, Can control monsters in-battle)
+		Air   -> Marksman     (*Increased knowledge of Bows and Arrows)
 		
-	Rogue: ADV(Cloaking, better escape chance, many more abilities) DIS(Starts off weak)
+	Rogue: ADV(Higher Agility *Increased knowledge of escape and cloaking, Level Scaling is exaggerated) DIS(Starts off weak, No shield)
 	
 		Fire  -> Shinobi
 		Earth -> Shinobi
 		Water -> Shinobi
 		Air   -> Shinobi
-		
-	Gladiator: ADV(Access to special weapon types, dual wield) DIS(less spells and abilities)
+		Er
+	Gladiator: ADV(Access to special weapon types, *Increased knowledge of custom weapon crafting, Dual wield) DIS(less spells and abilities) 
 	
-		Fire  -> 
-		Earth -> 
-		Water -> (can snag enemies in net) Net
-		Air   -> 
+		Fire  -> Dimachaeron (Dual-wields melee weapons)
+		Water -> Retiarion   (Higher Piercing, Can snag enemies in net)
+		Air   -> Spartan     (Warrior-like stats, *Access to various sword and shield types)
