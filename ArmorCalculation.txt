@@ -1,3 +1,7 @@
+Changes and comments:
+  [Richard] [??? 2015-08-07] Add
+  [Richard] <please do not modify>
+
 Armor: 0
 % of Damage Taken 1.0
 
