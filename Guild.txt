@@ -76,7 +76,7 @@ Fighter: ADV(Balanced stats, Combination of Mage and Warrior) DIS(Weaker physica
 		Earth -> Shinobi
 		Water -> Shinobi
 		Air   -> Shinobi
-		Er
+
 	Gladiator: ADV(Access to special weapon types, *Increased knowledge of custom weapon crafting, Dual wield) DIS(less spells and abilities) 
 	
 		Fire  -> Dimachaeron (Dual-wields melee weapons)

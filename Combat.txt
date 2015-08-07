@@ -1,0 +1,49 @@
+Comments/Changes:
+	[Richard] [11:30 AM 2015-08-02] Initialized
+	[Richard] <I am proposing an unusual form of combat in the form of *Energy>
+	
+General:
+	Per turn, both players and monsters can 
+	
+*Energy:
+	Similar to how most games require mana on spellcasts, Energy Spells/Attacks require Energy
+	Instead, basic attacks and spellcasts generate *Energy, and the player will also passively generate *Energy each turn
+	If the amount of *Energy reaches the maximum, it discharges and resets to 0
+	A player can cast an *Energy Spell if (and only if) their *Energy is in a certain range, and will lose *Energy on spellcasts
+	A player can preform an Energy Attack, if (and only if) their *Energy is in certain range, and their *Energy will remain the same
+	
+	This game mechanic should add a more dynamic play-style with players having to time their abilities.
+	(This concept is based on Heat and Energy from League of Legends)
+	
+Types of Damage:
+	Attack Damage (Damage done from basic attacks)
+	Magic Damage (Damage done from spells/effects)
+	Energy Damage (Damage done from Energy Spells/Attacks)
+
+Armor:
+	There are separate armor stats for each type of damage ie. :
+		Armor
+		Magic Resist
+		Energy Protection
+		
+	Armor/Magic Resist/Energy Protection Calculation:
+		% of Damage Taken = (0.2 * (defender.armor + 500) / (defender.armor + 100))
+		This formula has diminishing returns, meaning that the more armor you have, the less damage reduction per additional armor point you'll get
+		Damage Reduction details in file ArmorCalculation.txt
+		
+Anti-Armor (Penetration):
+	The 3 anti-armor stats are:
+		Armor Penetration
+		Magic Penetration
+		Energy Penetration
+	
+	Armor Penetration Formula:
+		When doing damage calculation, reduce the defender's armor by the attackers armor penetration
+	
+	Flat Penetration:
+		Reduce defender's armor by flat amount during damage calculation
+		Capped at 95% of defender's armor
+	
+	Percentage Penetration:
+		Reduce defender's armor by percentage during armor calculation
+		Capped at 35%

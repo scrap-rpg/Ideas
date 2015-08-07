@@ -1,0 +1,3003 @@
+Armor: 0
+% of Damage Taken 1.0
+
+Armor: 1
+% of Damage Taken 0.992079207921
+
+Armor: 2
+% of Damage Taken 0.98431372549
+
+Armor: 3
+% of Damage Taken 0.976699029126
+
+Armor: 4
+% of Damage Taken 0.969230769231
+
+Armor: 5
+% of Damage Taken 0.961904761905
+
+Armor: 6
+% of Damage Taken 0.954716981132
+
+Armor: 7
+% of Damage Taken 0.947663551402
+
+Armor: 8
+% of Damage Taken 0.940740740741
+
+Armor: 9
+% of Damage Taken 0.933944954128
+
+Armor: 10
+% of Damage Taken 0.927272727273
+
+Armor: 11
+% of Damage Taken 0.920720720721
+
+Armor: 12
+% of Damage Taken 0.914285714286
+
+Armor: 13
+% of Damage Taken 0.90796460177
+
+Armor: 14
+% of Damage Taken 0.901754385965
+
+Armor: 15
+% of Damage Taken 0.895652173913
+
+Armor: 16
+% of Damage Taken 0.889655172414
+
+Armor: 17
+% of Damage Taken 0.883760683761
+
+Armor: 18
+% of Damage Taken 0.877966101695
+
+Armor: 19
+% of Damage Taken 0.872268907563
+
+Armor: 20
+% of Damage Taken 0.866666666667
+
+Armor: 21
+% of Damage Taken 0.861157024793
+
+Armor: 22
+% of Damage Taken 0.855737704918
+
+Armor: 23
+% of Damage Taken 0.850406504065
+
+Armor: 24
+% of Damage Taken 0.845161290323
+
+Armor: 25
+% of Damage Taken 0.84
+
+Armor: 26
+% of Damage Taken 0.834920634921
+
+Armor: 27
+% of Damage Taken 0.829921259843
+
+Armor: 28
+% of Damage Taken 0.825
+
+Armor: 29
+% of Damage Taken 0.82015503876
+
+Armor: 30
+% of Damage Taken 0.815384615385
+
+Armor: 31
+% of Damage Taken 0.810687022901
+
+Armor: 32
+% of Damage Taken 0.806060606061
+
+Armor: 33
+% of Damage Taken 0.801503759398
+
+Armor: 34
+% of Damage Taken 0.797014925373
+
+Armor: 35
+% of Damage Taken 0.792592592593
+
+Armor: 36
+% of Damage Taken 0.788235294118
+
+Armor: 37
+% of Damage Taken 0.783941605839
+
+Armor: 38
+% of Damage Taken 0.779710144928
+
+Armor: 39
+% of Damage Taken 0.775539568345
+
+Armor: 40
+% of Damage Taken 0.771428571429
+
+Armor: 41
+% of Damage Taken 0.767375886525
+
+Armor: 42
+% of Damage Taken 0.76338028169
+
+Armor: 43
+% of Damage Taken 0.759440559441
+
+Armor: 44
+% of Damage Taken 0.755555555556
+
+Armor: 45
+% of Damage Taken 0.751724137931
+
+Armor: 46
+% of Damage Taken 0.747945205479
+
+Armor: 47
+% of Damage Taken 0.744217687075
+
+Armor: 48
+% of Damage Taken 0.740540540541
+
+Armor: 49
+% of Damage Taken 0.736912751678
+
+Armor: 50
+% of Damage Taken 0.733333333333
+
+Armor: 51
+% of Damage Taken 0.729801324503
+
+Armor: 52
+% of Damage Taken 0.726315789474
+
+Armor: 53
+% of Damage Taken 0.722875816993
+
+Armor: 54
+% of Damage Taken 0.719480519481
+
+Armor: 55
+% of Damage Taken 0.716129032258
+
+Armor: 56
+% of Damage Taken 0.712820512821
+
+Armor: 57
+% of Damage Taken 0.709554140127
+
+Armor: 58
+% of Damage Taken 0.706329113924
+
+Armor: 59
+% of Damage Taken 0.703144654088
+
+Armor: 60
+% of Damage Taken 0.7
+
+Armor: 61
+% of Damage Taken 0.696894409938
+
+Armor: 62
+% of Damage Taken 0.693827160494
+
+Armor: 63
+% of Damage Taken 0.690797546012
+
+Armor: 64
+% of Damage Taken 0.687804878049
+
+Armor: 65
+% of Damage Taken 0.684848484848
+
+Armor: 66
+% of Damage Taken 0.681927710843
+
+Armor: 67
+% of Damage Taken 0.679041916168
+
+Armor: 68
+% of Damage Taken 0.67619047619
+
+Armor: 69
+% of Damage Taken 0.673372781065
+
+Armor: 70
+% of Damage Taken 0.670588235294
+
+Armor: 71
+% of Damage Taken 0.66783625731
+
+Armor: 72
+% of Damage Taken 0.66511627907
+
+Armor: 73
+% of Damage Taken 0.662427745665
+
+Armor: 74
+% of Damage Taken 0.659770114943
+
+Armor: 75
+% of Damage Taken 0.657142857143
+
+Armor: 76
+% of Damage Taken 0.654545454545
+
+Armor: 77
+% of Damage Taken 0.65197740113
+
+Armor: 78
+% of Damage Taken 0.649438202247
+
+Armor: 79
+% of Damage Taken 0.646927374302
+
+Armor: 80
+% of Damage Taken 0.644444444444
+
+Armor: 81
+% of Damage Taken 0.641988950276
+
+Armor: 82
+% of Damage Taken 0.63956043956
+
+Armor: 83
+% of Damage Taken 0.637158469945
+
+Armor: 84
+% of Damage Taken 0.634782608696
+
+Armor: 85
+% of Damage Taken 0.632432432432
+
+Armor: 86
+% of Damage Taken 0.630107526882
+
+Armor: 87
+% of Damage Taken 0.627807486631
+
+Armor: 88
+% of Damage Taken 0.625531914894
+
+Armor: 89
+% of Damage Taken 0.62328042328
+
+Armor: 90
+% of Damage Taken 0.621052631579
+
+Armor: 91
+% of Damage Taken 0.618848167539
+
+Armor: 92
+% of Damage Taken 0.616666666667
+
+Armor: 93
+% of Damage Taken 0.614507772021
+
+Armor: 94
+% of Damage Taken 0.612371134021
+
+Armor: 95
+% of Damage Taken 0.610256410256
+
+Armor: 96
+% of Damage Taken 0.608163265306
+
+Armor: 97
+% of Damage Taken 0.606091370558
+
+Armor: 98
+% of Damage Taken 0.60404040404
+
+Armor: 99
+% of Damage Taken 0.602010050251
+
+Armor: 100
+% of Damage Taken 0.6
+
+Armor: 101
+% of Damage Taken 0.598009950249
+
+Armor: 102
+% of Damage Taken 0.59603960396
+
+Armor: 103
+% of Damage Taken 0.594088669951
+
+Armor: 104
+% of Damage Taken 0.592156862745
+
+Armor: 105
+% of Damage Taken 0.590243902439
+
+Armor: 106
+% of Damage Taken 0.588349514563
+
+Armor: 107
+% of Damage Taken 0.586473429952
+
+Armor: 108
+% of Damage Taken 0.584615384615
+
+Armor: 109
+% of Damage Taken 0.582775119617
+
+Armor: 110
+% of Damage Taken 0.580952380952
+
+Armor: 111
+% of Damage Taken 0.579146919431
+
+Armor: 112
+% of Damage Taken 0.577358490566
+
+Armor: 113
+% of Damage Taken 0.57558685446
+
+Armor: 114
+% of Damage Taken 0.573831775701
+
+Armor: 115
+% of Damage Taken 0.572093023256
+
+Armor: 116
+% of Damage Taken 0.57037037037
+
+Armor: 117
+% of Damage Taken 0.56866359447
+
+Armor: 118
+% of Damage Taken 0.566972477064
+
+Armor: 119
+% of Damage Taken 0.565296803653
+
+Armor: 120
+% of Damage Taken 0.563636363636
+
+Armor: 121
+% of Damage Taken 0.561990950226
+
+Armor: 122
+% of Damage Taken 0.56036036036
+
+Armor: 123
+% of Damage Taken 0.558744394619
+
+Armor: 124
+% of Damage Taken 0.557142857143
+
+Armor: 125
+% of Damage Taken 0.555555555556
+
+Armor: 126
+% of Damage Taken 0.553982300885
+
+Armor: 127
+% of Damage Taken 0.552422907489
+
+Armor: 128
+% of Damage Taken 0.550877192982
+
+Armor: 129
+% of Damage Taken 0.549344978166
+
+Armor: 130
+% of Damage Taken 0.547826086957
+
+Armor: 131
+% of Damage Taken 0.54632034632
+
+Armor: 132
+% of Damage Taken 0.544827586207
+
+Armor: 133
+% of Damage Taken 0.543347639485
+
+Armor: 134
+% of Damage Taken 0.54188034188
+
+Armor: 135
+% of Damage Taken 0.540425531915
+
+Armor: 136
+% of Damage Taken 0.538983050847
+
+Armor: 137
+% of Damage Taken 0.537552742616
+
+Armor: 138
+% of Damage Taken 0.536134453782
+
+Armor: 139
+% of Damage Taken 0.534728033473
+
+Armor: 140
+% of Damage Taken 0.533333333333
+
+Armor: 141
+% of Damage Taken 0.531950207469
+
+Armor: 142
+% of Damage Taken 0.530578512397
+
+Armor: 143
+% of Damage Taken 0.529218106996
+
+Armor: 144
+% of Damage Taken 0.527868852459
+
+Armor: 145
+% of Damage Taken 0.526530612245
+
+Armor: 146
+% of Damage Taken 0.525203252033
+
+Armor: 147
+% of Damage Taken 0.523886639676
+
+Armor: 148
+% of Damage Taken 0.522580645161
+
+Armor: 149
+% of Damage Taken 0.521285140562
+
+Armor: 150
+% of Damage Taken 0.52
+
+Armor: 151
+% of Damage Taken 0.518725099602
+
+Armor: 152
+% of Damage Taken 0.51746031746
+
+Armor: 153
+% of Damage Taken 0.516205533597
+
+Armor: 154
+% of Damage Taken 0.514960629921
+
+Armor: 155
+% of Damage Taken 0.513725490196
+
+Armor: 156
+% of Damage Taken 0.5125
+
+Armor: 157
+% of Damage Taken 0.511284046693
+
+Armor: 158
+% of Damage Taken 0.51007751938
+
+Armor: 159
+% of Damage Taken 0.50888030888
+
+Armor: 160
+% of Damage Taken 0.507692307692
+
+Armor: 161
+% of Damage Taken 0.506513409962
+
+Armor: 162
+% of Damage Taken 0.50534351145
+
+Armor: 163
+% of Damage Taken 0.504182509506
+
+Armor: 164
+% of Damage Taken 0.50303030303
+
+Armor: 165
+% of Damage Taken 0.501886792453
+
+Armor: 166
+% of Damage Taken 0.500751879699
+
+Armor: 167
+% of Damage Taken 0.499625468165
+
+Armor: 168
+% of Damage Taken 0.498507462687
+
+Armor: 169
+% of Damage Taken 0.497397769517
+
+Armor: 170
+% of Damage Taken 0.496296296296
+
+Armor: 171
+% of Damage Taken 0.49520295203
+
+Armor: 172
+% of Damage Taken 0.494117647059
+
+Armor: 173
+% of Damage Taken 0.49304029304
+
+Armor: 174
+% of Damage Taken 0.49197080292
+
+Armor: 175
+% of Damage Taken 0.490909090909
+
+Armor: 176
+% of Damage Taken 0.489855072464
+
+Armor: 177
+% of Damage Taken 0.48880866426
+
+Armor: 178
+% of Damage Taken 0.487769784173
+
+Armor: 179
+% of Damage Taken 0.486738351254
+
+Armor: 180
+% of Damage Taken 0.485714285714
+
+Armor: 181
+% of Damage Taken 0.484697508897
+
+Armor: 182
+% of Damage Taken 0.483687943262
+
+Armor: 183
+% of Damage Taken 0.482685512367
+
+Armor: 184
+% of Damage Taken 0.481690140845
+
+Armor: 185
+% of Damage Taken 0.480701754386
+
+Armor: 186
+% of Damage Taken 0.47972027972
+
+Armor: 187
+% of Damage Taken 0.478745644599
+
+Armor: 188
+% of Damage Taken 0.477777777778
+
+Armor: 189
+% of Damage Taken 0.476816608997
+
+Armor: 190
+% of Damage Taken 0.475862068966
+
+Armor: 191
+% of Damage Taken 0.474914089347
+
+Armor: 192
+% of Damage Taken 0.47397260274
+
+Armor: 193
+% of Damage Taken 0.473037542662
+
+Armor: 194
+% of Damage Taken 0.472108843537
+
+Armor: 195
+% of Damage Taken 0.471186440678
+
+Armor: 196
+% of Damage Taken 0.47027027027
+
+Armor: 197
+% of Damage Taken 0.46936026936
+
+Armor: 198
+% of Damage Taken 0.468456375839
+
+Armor: 199
+% of Damage Taken 0.467558528428
+
+Armor: 200
+% of Damage Taken 0.466666666667
+
+Armor: 201
+% of Damage Taken 0.465780730897
+
+Armor: 202
+% of Damage Taken 0.464900662252
+
+Armor: 203
+% of Damage Taken 0.46402640264
+
+Armor: 204
+% of Damage Taken 0.463157894737
+
+Armor: 205
+% of Damage Taken 0.462295081967
+
+Armor: 206
+% of Damage Taken 0.461437908497
+
+Armor: 207
+% of Damage Taken 0.460586319218
+
+Armor: 208
+% of Damage Taken 0.45974025974
+
+Armor: 209
+% of Damage Taken 0.458899676375
+
+Armor: 210
+% of Damage Taken 0.458064516129
+
+Armor: 211
+% of Damage Taken 0.457234726688
+
+Armor: 212
+% of Damage Taken 0.45641025641
+
+Armor: 213
+% of Damage Taken 0.455591054313
+
+Armor: 214
+% of Damage Taken 0.454777070064
+
+Armor: 215
+% of Damage Taken 0.453968253968
+
+Armor: 216
+% of Damage Taken 0.453164556962
+
+Armor: 217
+% of Damage Taken 0.452365930599
+
+Armor: 218
+% of Damage Taken 0.451572327044
+
+Armor: 219
+% of Damage Taken 0.45078369906
+
+Armor: 220
+% of Damage Taken 0.45
+
+Armor: 221
+% of Damage Taken 0.449221183801
+
+Armor: 222
+% of Damage Taken 0.448447204969
+
+Armor: 223
+% of Damage Taken 0.447678018576
+
+Armor: 224
+% of Damage Taken 0.446913580247
+
+Armor: 225
+% of Damage Taken 0.446153846154
+
+Armor: 226
+% of Damage Taken 0.445398773006
+
+Armor: 227
+% of Damage Taken 0.444648318043
+
+Armor: 228
+% of Damage Taken 0.443902439024
+
+Armor: 229
+% of Damage Taken 0.443161094225
+
+Armor: 230
+% of Damage Taken 0.442424242424
+
+Armor: 231
+% of Damage Taken 0.4416918429
+
+Armor: 232
+% of Damage Taken 0.440963855422
+
+Armor: 233
+% of Damage Taken 0.44024024024
+
+Armor: 234
+% of Damage Taken 0.439520958084
+
+Armor: 235
+% of Damage Taken 0.438805970149
+
+Armor: 236
+% of Damage Taken 0.438095238095
+
+Armor: 237
+% of Damage Taken 0.437388724036
+
+Armor: 238
+% of Damage Taken 0.436686390533
+
+Armor: 239
+% of Damage Taken 0.43598820059
+
+Armor: 240
+% of Damage Taken 0.435294117647
+
+Armor: 241
+% of Damage Taken 0.434604105572
+
+Armor: 242
+% of Damage Taken 0.433918128655
+
+Armor: 243
+% of Damage Taken 0.433236151603
+
+Armor: 244
+% of Damage Taken 0.432558139535
+
+Armor: 245
+% of Damage Taken 0.431884057971
+
+Armor: 246
+% of Damage Taken 0.431213872832
+
+Armor: 247
+% of Damage Taken 0.430547550432
+
+Armor: 248
+% of Damage Taken 0.429885057471
+
+Armor: 249
+% of Damage Taken 0.429226361032
+
+Armor: 250
+% of Damage Taken 0.428571428571
+
+Armor: 251
+% of Damage Taken 0.42792022792
+
+Armor: 252
+% of Damage Taken 0.427272727273
+
+Armor: 253
+% of Damage Taken 0.426628895184
+
+Armor: 254
+% of Damage Taken 0.425988700565
+
+Armor: 255
+% of Damage Taken 0.425352112676
+
+Armor: 256
+% of Damage Taken 0.424719101124
+
+Armor: 257
+% of Damage Taken 0.424089635854
+
+Armor: 258
+% of Damage Taken 0.423463687151
+
+Armor: 259
+% of Damage Taken 0.422841225627
+
+Armor: 260
+% of Damage Taken 0.422222222222
+
+Armor: 261
+% of Damage Taken 0.421606648199
+
+Armor: 262
+% of Damage Taken 0.420994475138
+
+Armor: 263
+% of Damage Taken 0.420385674931
+
+Armor: 264
+% of Damage Taken 0.41978021978
+
+Armor: 265
+% of Damage Taken 0.419178082192
+
+Armor: 266
+% of Damage Taken 0.418579234973
+
+Armor: 267
+% of Damage Taken 0.417983651226
+
+Armor: 268
+% of Damage Taken 0.417391304348
+
+Armor: 269
+% of Damage Taken 0.416802168022
+
+Armor: 270
+% of Damage Taken 0.416216216216
+
+Armor: 271
+% of Damage Taken 0.415633423181
+
+Armor: 272
+% of Damage Taken 0.415053763441
+
+Armor: 273
+% of Damage Taken 0.414477211796
+
+Armor: 274
+% of Damage Taken 0.413903743316
+
+Armor: 275
+% of Damage Taken 0.413333333333
+
+Armor: 276
+% of Damage Taken 0.412765957447
+
+Armor: 277
+% of Damage Taken 0.412201591512
+
+Armor: 278
+% of Damage Taken 0.41164021164
+
+Armor: 279
+% of Damage Taken 0.411081794195
+
+Armor: 280
+% of Damage Taken 0.410526315789
+
+Armor: 281
+% of Damage Taken 0.409973753281
+
+Armor: 282
+% of Damage Taken 0.40942408377
+
+Armor: 283
+% of Damage Taken 0.408877284595
+
+Armor: 284
+% of Damage Taken 0.408333333333
+
+Armor: 285
+% of Damage Taken 0.407792207792
+
+Armor: 286
+% of Damage Taken 0.40725388601
+
+Armor: 287
+% of Damage Taken 0.406718346253
+
+Armor: 288
+% of Damage Taken 0.40618556701
+
+Armor: 289
+% of Damage Taken 0.405655526992
+
+Armor: 290
+% of Damage Taken 0.405128205128
+
+Armor: 291
+% of Damage Taken 0.404603580563
+
+Armor: 292
+% of Damage Taken 0.404081632653
+
+Armor: 293
+% of Damage Taken 0.403562340967
+
+Armor: 294
+% of Damage Taken 0.403045685279
+
+Armor: 295
+% of Damage Taken 0.40253164557
+
+Armor: 296
+% of Damage Taken 0.40202020202
+
+Armor: 297
+% of Damage Taken 0.401511335013
+
+Armor: 298
+% of Damage Taken 0.401005025126
+
+Armor: 299
+% of Damage Taken 0.400501253133
+
+Armor: 300
+% of Damage Taken 0.4
+
+Armor: 301
+% of Damage Taken 0.399501246883
+
+Armor: 302
+% of Damage Taken 0.399004975124
+
+Armor: 303
+% of Damage Taken 0.398511166253
+
+Armor: 304
+% of Damage Taken 0.39801980198
+
+Armor: 305
+% of Damage Taken 0.397530864198
+
+Armor: 306
+% of Damage Taken 0.397044334975
+
+Armor: 307
+% of Damage Taken 0.39656019656
+
+Armor: 308
+% of Damage Taken 0.396078431373
+
+Armor: 309
+% of Damage Taken 0.395599022005
+
+Armor: 310
+% of Damage Taken 0.39512195122
+
+Armor: 311
+% of Damage Taken 0.394647201946
+
+Armor: 312
+% of Damage Taken 0.394174757282
+
+Armor: 313
+% of Damage Taken 0.393704600484
+
+Armor: 314
+% of Damage Taken 0.393236714976
+
+Armor: 315
+% of Damage Taken 0.392771084337
+
+Armor: 316
+% of Damage Taken 0.392307692308
+
+Armor: 317
+% of Damage Taken 0.391846522782
+
+Armor: 318
+% of Damage Taken 0.391387559809
+
+Armor: 319
+% of Damage Taken 0.390930787589
+
+Armor: 320
+% of Damage Taken 0.390476190476
+
+Armor: 321
+% of Damage Taken 0.390023752969
+
+Armor: 322
+% of Damage Taken 0.389573459716
+
+Armor: 323
+% of Damage Taken 0.389125295508
+
+Armor: 324
+% of Damage Taken 0.388679245283
+
+Armor: 325
+% of Damage Taken 0.388235294118
+
+Armor: 326
+% of Damage Taken 0.38779342723
+
+Armor: 327
+% of Damage Taken 0.387353629977
+
+Armor: 328
+% of Damage Taken 0.38691588785
+
+Armor: 329
+% of Damage Taken 0.38648018648
+
+Armor: 330
+% of Damage Taken 0.386046511628
+
+Armor: 331
+% of Damage Taken 0.385614849188
+
+Armor: 332
+% of Damage Taken 0.385185185185
+
+Armor: 333
+% of Damage Taken 0.384757505774
+
+Armor: 334
+% of Damage Taken 0.384331797235
+
+Armor: 335
+% of Damage Taken 0.383908045977
+
+Armor: 336
+% of Damage Taken 0.383486238532
+
+Armor: 337
+% of Damage Taken 0.383066361556
+
+Armor: 338
+% of Damage Taken 0.382648401826
+
+Armor: 339
+% of Damage Taken 0.382232346241
+
+Armor: 340
+% of Damage Taken 0.381818181818
+
+Armor: 341
+% of Damage Taken 0.381405895692
+
+Armor: 342
+% of Damage Taken 0.380995475113
+
+Armor: 343
+% of Damage Taken 0.380586907449
+
+Armor: 344
+% of Damage Taken 0.38018018018
+
+Armor: 345
+% of Damage Taken 0.379775280899
+
+Armor: 346
+% of Damage Taken 0.379372197309
+
+Armor: 347
+% of Damage Taken 0.378970917226
+
+Armor: 348
+% of Damage Taken 0.378571428571
+
+Armor: 349
+% of Damage Taken 0.378173719376
+
+Armor: 350
+% of Damage Taken 0.377777777778
+
+Armor: 351
+% of Damage Taken 0.377383592018
+
+Armor: 352
+% of Damage Taken 0.376991150442
+
+Armor: 353
+% of Damage Taken 0.376600441501
+
+Armor: 354
+% of Damage Taken 0.376211453744
+
+Armor: 355
+% of Damage Taken 0.375824175824
+
+Armor: 356
+% of Damage Taken 0.375438596491
+
+Armor: 357
+% of Damage Taken 0.375054704595
+
+Armor: 358
+% of Damage Taken 0.374672489083
+
+Armor: 359
+% of Damage Taken 0.374291938998
+
+Armor: 360
+% of Damage Taken 0.373913043478
+
+Armor: 361
+% of Damage Taken 0.373535791757
+
+Armor: 362
+% of Damage Taken 0.37316017316
+
+Armor: 363
+% of Damage Taken 0.372786177106
+
+Armor: 364
+% of Damage Taken 0.372413793103
+
+Armor: 365
+% of Damage Taken 0.372043010753
+
+Armor: 366
+% of Damage Taken 0.371673819742
+
+Armor: 367
+% of Damage Taken 0.37130620985
+
+Armor: 368
+% of Damage Taken 0.37094017094
+
+Armor: 369
+% of Damage Taken 0.370575692964
+
+Armor: 370
+% of Damage Taken 0.370212765957
+
+Armor: 371
+% of Damage Taken 0.369851380042
+
+Armor: 372
+% of Damage Taken 0.369491525424
+
+Armor: 373
+% of Damage Taken 0.369133192389
+
+Armor: 374
+% of Damage Taken 0.368776371308
+
+Armor: 375
+% of Damage Taken 0.368421052632
+
+Armor: 376
+% of Damage Taken 0.368067226891
+
+Armor: 377
+% of Damage Taken 0.367714884696
+
+Armor: 378
+% of Damage Taken 0.367364016736
+
+Armor: 379
+% of Damage Taken 0.367014613779
+
+Armor: 380
+% of Damage Taken 0.366666666667
+
+Armor: 381
+% of Damage Taken 0.36632016632
+
+Armor: 382
+% of Damage Taken 0.365975103734
+
+Armor: 383
+% of Damage Taken 0.365631469979
+
+Armor: 384
+% of Damage Taken 0.365289256198
+
+Armor: 385
+% of Damage Taken 0.364948453608
+
+Armor: 386
+% of Damage Taken 0.364609053498
+
+Armor: 387
+% of Damage Taken 0.364271047228
+
+Armor: 388
+% of Damage Taken 0.36393442623
+
+Armor: 389
+% of Damage Taken 0.363599182004
+
+Armor: 390
+% of Damage Taken 0.363265306122
+
+Armor: 391
+% of Damage Taken 0.362932790224
+
+Armor: 392
+% of Damage Taken 0.362601626016
+
+Armor: 393
+% of Damage Taken 0.362271805274
+
+Armor: 394
+% of Damage Taken 0.361943319838
+
+Armor: 395
+% of Damage Taken 0.361616161616
+
+Armor: 396
+% of Damage Taken 0.361290322581
+
+Armor: 397
+% of Damage Taken 0.360965794769
+
+Armor: 398
+% of Damage Taken 0.360642570281
+
+Armor: 399
+% of Damage Taken 0.360320641283
+
+Armor: 400
+% of Damage Taken 0.36
+
+Armor: 401
+% of Damage Taken 0.359680638723
+
+Armor: 402
+% of Damage Taken 0.359362549801
+
+Armor: 403
+% of Damage Taken 0.359045725646
+
+Armor: 404
+% of Damage Taken 0.35873015873
+
+Armor: 405
+% of Damage Taken 0.358415841584
+
+Armor: 406
+% of Damage Taken 0.358102766798
+
+Armor: 407
+% of Damage Taken 0.357790927022
+
+Armor: 408
+% of Damage Taken 0.357480314961
+
+Armor: 409
+% of Damage Taken 0.357170923379
+
+Armor: 410
+% of Damage Taken 0.356862745098
+
+Armor: 411
+% of Damage Taken 0.356555772994
+
+Armor: 412
+% of Damage Taken 0.35625
+
+Armor: 413
+% of Damage Taken 0.355945419103
+
+Armor: 414
+% of Damage Taken 0.355642023346
+
+Armor: 415
+% of Damage Taken 0.355339805825
+
+Armor: 416
+% of Damage Taken 0.35503875969
+
+Armor: 417
+% of Damage Taken 0.354738878143
+
+Armor: 418
+% of Damage Taken 0.35444015444
+
+Armor: 419
+% of Damage Taken 0.354142581888
+
+Armor: 420
+% of Damage Taken 0.353846153846
+
+Armor: 421
+% of Damage Taken 0.353550863724
+
+Armor: 422
+% of Damage Taken 0.353256704981
+
+Armor: 423
+% of Damage Taken 0.352963671128
+
+Armor: 424
+% of Damage Taken 0.352671755725
+
+Armor: 425
+% of Damage Taken 0.352380952381
+
+Armor: 426
+% of Damage Taken 0.352091254753
+
+Armor: 427
+% of Damage Taken 0.351802656546
+
+Armor: 428
+% of Damage Taken 0.351515151515
+
+Armor: 429
+% of Damage Taken 0.351228733459
+
+Armor: 430
+% of Damage Taken 0.350943396226
+
+Armor: 431
+% of Damage Taken 0.35065913371
+
+Armor: 432
+% of Damage Taken 0.35037593985
+
+Armor: 433
+% of Damage Taken 0.35009380863
+
+Armor: 434
+% of Damage Taken 0.349812734082
+
+Armor: 435
+% of Damage Taken 0.34953271028
+
+Armor: 436
+% of Damage Taken 0.349253731343
+
+Armor: 437
+% of Damage Taken 0.348975791434
+
+Armor: 438
+% of Damage Taken 0.348698884758
+
+Armor: 439
+% of Damage Taken 0.348423005566
+
+Armor: 440
+% of Damage Taken 0.348148148148
+
+Armor: 441
+% of Damage Taken 0.347874306839
+
+Armor: 442
+% of Damage Taken 0.347601476015
+
+Armor: 443
+% of Damage Taken 0.347329650092
+
+Armor: 444
+% of Damage Taken 0.347058823529
+
+Armor: 445
+% of Damage Taken 0.346788990826
+
+Armor: 446
+% of Damage Taken 0.34652014652
+
+Armor: 447
+% of Damage Taken 0.346252285192
+
+Armor: 448
+% of Damage Taken 0.34598540146
+
+Armor: 449
+% of Damage Taken 0.345719489982
+
+Armor: 450
+% of Damage Taken 0.345454545455
+
+Armor: 451
+% of Damage Taken 0.345190562613
+
+Armor: 452
+% of Damage Taken 0.344927536232
+
+Armor: 453
+% of Damage Taken 0.344665461121
+
+Armor: 454
+% of Damage Taken 0.34440433213
+
+Armor: 455
+% of Damage Taken 0.344144144144
+
+Armor: 456
+% of Damage Taken 0.343884892086
+
+Armor: 457
+% of Damage Taken 0.343626570916
+
+Armor: 458
+% of Damage Taken 0.343369175627
+
+Armor: 459
+% of Damage Taken 0.343112701252
+
+Armor: 460
+% of Damage Taken 0.342857142857
+
+Armor: 461
+% of Damage Taken 0.342602495544
+
+Armor: 462
+% of Damage Taken 0.342348754448
+
+Armor: 463
+% of Damage Taken 0.342095914742
+
+Armor: 464
+% of Damage Taken 0.341843971631
+
+Armor: 465
+% of Damage Taken 0.341592920354
+
+Armor: 466
+% of Damage Taken 0.341342756184
+
+Armor: 467
+% of Damage Taken 0.341093474427
+
+Armor: 468
+% of Damage Taken 0.340845070423
+
+Armor: 469
+% of Damage Taken 0.340597539543
+
+Armor: 470
+% of Damage Taken 0.340350877193
+
+Armor: 471
+% of Damage Taken 0.340105078809
+
+Armor: 472
+% of Damage Taken 0.33986013986
+
+Armor: 473
+% of Damage Taken 0.339616055846
+
+Armor: 474
+% of Damage Taken 0.3393728223
+
+Armor: 475
+% of Damage Taken 0.339130434783
+
+Armor: 476
+% of Damage Taken 0.338888888889
+
+Armor: 477
+% of Damage Taken 0.338648180243
+
+Armor: 478
+% of Damage Taken 0.338408304498
+
+Armor: 479
+% of Damage Taken 0.33816925734
+
+Armor: 480
+% of Damage Taken 0.337931034483
+
+Armor: 481
+% of Damage Taken 0.33769363167
+
+Armor: 482
+% of Damage Taken 0.337457044674
+
+Armor: 483
+% of Damage Taken 0.337221269297
+
+Armor: 484
+% of Damage Taken 0.33698630137
+
+Armor: 485
+% of Damage Taken 0.336752136752
+
+Armor: 486
+% of Damage Taken 0.336518771331
+
+Armor: 487
+% of Damage Taken 0.336286201022
+
+Armor: 488
+% of Damage Taken 0.336054421769
+
+Armor: 489
+% of Damage Taken 0.335823429542
+
+Armor: 490
+% of Damage Taken 0.335593220339
+
+Armor: 491
+% of Damage Taken 0.335363790186
+
+Armor: 492
+% of Damage Taken 0.335135135135
+
+Armor: 493
+% of Damage Taken 0.334907251265
+
+Armor: 494
+% of Damage Taken 0.33468013468
+
+Armor: 495
+% of Damage Taken 0.334453781513
+
+Armor: 496
+% of Damage Taken 0.334228187919
+
+Armor: 497
+% of Damage Taken 0.334003350084
+
+Armor: 498
+% of Damage Taken 0.333779264214
+
+Armor: 499
+% of Damage Taken 0.333555926544
+
+Armor: 500
+% of Damage Taken 0.333333333333
+
+Armor: 501
+% of Damage Taken 0.333111480865
+
+Armor: 502
+% of Damage Taken 0.332890365449
+
+Armor: 503
+% of Damage Taken 0.332669983416
+
+Armor: 504
+% of Damage Taken 0.332450331126
+
+Armor: 505
+% of Damage Taken 0.332231404959
+
+Armor: 506
+% of Damage Taken 0.33201320132
+
+Armor: 507
+% of Damage Taken 0.331795716639
+
+Armor: 508
+% of Damage Taken 0.331578947368
+
+Armor: 509
+% of Damage Taken 0.331362889984
+
+Armor: 510
+% of Damage Taken 0.331147540984
+
+Armor: 511
+% of Damage Taken 0.33093289689
+
+Armor: 512
+% of Damage Taken 0.330718954248
+
+Armor: 513
+% of Damage Taken 0.330505709625
+
+Armor: 514
+% of Damage Taken 0.330293159609
+
+Armor: 515
+% of Damage Taken 0.330081300813
+
+Armor: 516
+% of Damage Taken 0.32987012987
+
+Armor: 517
+% of Damage Taken 0.329659643436
+
+Armor: 518
+% of Damage Taken 0.329449838188
+
+Armor: 519
+% of Damage Taken 0.329240710824
+
+Armor: 520
+% of Damage Taken 0.329032258065
+
+Armor: 521
+% of Damage Taken 0.328824476651
+
+Armor: 522
+% of Damage Taken 0.328617363344
+
+Armor: 523
+% of Damage Taken 0.328410914928
+
+Armor: 524
+% of Damage Taken 0.328205128205
+
+Armor: 525
+% of Damage Taken 0.328
+
+Armor: 526
+% of Damage Taken 0.327795527157
+
+Armor: 527
+% of Damage Taken 0.327591706539
+
+Armor: 528
+% of Damage Taken 0.327388535032
+
+Armor: 529
+% of Damage Taken 0.327186009539
+
+Armor: 530
+% of Damage Taken 0.326984126984
+
+Armor: 531
+% of Damage Taken 0.326782884311
+
+Armor: 532
+% of Damage Taken 0.326582278481
+
+Armor: 533
+% of Damage Taken 0.326382306477
+
+Armor: 534
+% of Damage Taken 0.3261829653
+
+Armor: 535
+% of Damage Taken 0.325984251969
+
+Armor: 536
+% of Damage Taken 0.325786163522
+
+Armor: 537
+% of Damage Taken 0.325588697017
+
+Armor: 538
+% of Damage Taken 0.32539184953
+
+Armor: 539
+% of Damage Taken 0.325195618153
+
+Armor: 540
+% of Damage Taken 0.325
+
+Armor: 541
+% of Damage Taken 0.3248049922
+
+Armor: 542
+% of Damage Taken 0.3246105919
+
+Armor: 543
+% of Damage Taken 0.324416796267
+
+Armor: 544
+% of Damage Taken 0.324223602484
+
+Armor: 545
+% of Damage Taken 0.324031007752
+
+Armor: 546
+% of Damage Taken 0.323839009288
+
+Armor: 547
+% of Damage Taken 0.323647604328
+
+Armor: 548
+% of Damage Taken 0.323456790123
+
+Armor: 549
+% of Damage Taken 0.323266563945
+
+Armor: 550
+% of Damage Taken 0.323076923077
+
+Armor: 551
+% of Damage Taken 0.322887864823
+
+Armor: 552
+% of Damage Taken 0.322699386503
+
+Armor: 553
+% of Damage Taken 0.322511485452
+
+Armor: 554
+% of Damage Taken 0.322324159021
+
+Armor: 555
+% of Damage Taken 0.32213740458
+
+Armor: 556
+% of Damage Taken 0.321951219512
+
+Armor: 557
+% of Damage Taken 0.321765601218
+
+Armor: 558
+% of Damage Taken 0.321580547112
+
+Armor: 559
+% of Damage Taken 0.321396054628
+
+Armor: 560
+% of Damage Taken 0.321212121212
+
+Armor: 561
+% of Damage Taken 0.321028744327
+
+Armor: 562
+% of Damage Taken 0.32084592145
+
+Armor: 563
+% of Damage Taken 0.320663650075
+
+Armor: 564
+% of Damage Taken 0.320481927711
+
+Armor: 565
+% of Damage Taken 0.32030075188
+
+Armor: 566
+% of Damage Taken 0.32012012012
+
+Armor: 567
+% of Damage Taken 0.319940029985
+
+Armor: 568
+% of Damage Taken 0.319760479042
+
+Armor: 569
+% of Damage Taken 0.319581464873
+
+Armor: 570
+% of Damage Taken 0.319402985075
+
+Armor: 571
+% of Damage Taken 0.319225037258
+
+Armor: 572
+% of Damage Taken 0.319047619048
+
+Armor: 573
+% of Damage Taken 0.318870728083
+
+Armor: 574
+% of Damage Taken 0.318694362018
+
+Armor: 575
+% of Damage Taken 0.318518518519
+
+Armor: 576
+% of Damage Taken 0.318343195266
+
+Armor: 577
+% of Damage Taken 0.318168389956
+
+Armor: 578
+% of Damage Taken 0.317994100295
+
+Armor: 579
+% of Damage Taken 0.317820324006
+
+Armor: 580
+% of Damage Taken 0.317647058824
+
+Armor: 581
+% of Damage Taken 0.317474302496
+
+Armor: 582
+% of Damage Taken 0.317302052786
+
+Armor: 583
+% of Damage Taken 0.317130307467
+
+Armor: 584
+% of Damage Taken 0.316959064327
+
+Armor: 585
+% of Damage Taken 0.316788321168
+
+Armor: 586
+% of Damage Taken 0.316618075802
+
+Armor: 587
+% of Damage Taken 0.316448326055
+
+Armor: 588
+% of Damage Taken 0.316279069767
+
+Armor: 589
+% of Damage Taken 0.31611030479
+
+Armor: 590
+% of Damage Taken 0.315942028986
+
+Armor: 591
+% of Damage Taken 0.315774240232
+
+Armor: 592
+% of Damage Taken 0.315606936416
+
+Armor: 593
+% of Damage Taken 0.31544011544
+
+Armor: 594
+% of Damage Taken 0.315273775216
+
+Armor: 595
+% of Damage Taken 0.315107913669
+
+Armor: 596
+% of Damage Taken 0.314942528736
+
+Armor: 597
+% of Damage Taken 0.314777618364
+
+Armor: 598
+% of Damage Taken 0.314613180516
+
+Armor: 599
+% of Damage Taken 0.314449213162
+
+Armor: 600
+% of Damage Taken 0.314285714286
+
+Armor: 601
+% of Damage Taken 0.314122681883
+
+Armor: 602
+% of Damage Taken 0.31396011396
+
+Armor: 603
+% of Damage Taken 0.313798008535
+
+Armor: 604
+% of Damage Taken 0.313636363636
+
+Armor: 605
+% of Damage Taken 0.313475177305
+
+Armor: 606
+% of Damage Taken 0.313314447592
+
+Armor: 607
+% of Damage Taken 0.31315417256
+
+Armor: 608
+% of Damage Taken 0.312994350282
+
+Armor: 609
+% of Damage Taken 0.312834978843
+
+Armor: 610
+% of Damage Taken 0.312676056338
+
+Armor: 611
+% of Damage Taken 0.312517580872
+
+Armor: 612
+% of Damage Taken 0.312359550562
+
+Armor: 613
+% of Damage Taken 0.312201963534
+
+Armor: 614
+% of Damage Taken 0.312044817927
+
+Armor: 615
+% of Damage Taken 0.311888111888
+
+Armor: 616
+% of Damage Taken 0.311731843575
+
+Armor: 617
+% of Damage Taken 0.311576011158
+
+Armor: 618
+% of Damage Taken 0.311420612813
+
+Armor: 619
+% of Damage Taken 0.311265646732
+
+Armor: 620
+% of Damage Taken 0.311111111111
+
+Armor: 621
+% of Damage Taken 0.310957004161
+
+Armor: 622
+% of Damage Taken 0.3108033241
+
+Armor: 623
+% of Damage Taken 0.310650069156
+
+Armor: 624
+% of Damage Taken 0.310497237569
+
+Armor: 625
+% of Damage Taken 0.310344827586
+
+Armor: 626
+% of Damage Taken 0.310192837466
+
+Armor: 627
+% of Damage Taken 0.310041265475
+
+Armor: 628
+% of Damage Taken 0.30989010989
+
+Armor: 629
+% of Damage Taken 0.309739368999
+
+Armor: 630
+% of Damage Taken 0.309589041096
+
+Armor: 631
+% of Damage Taken 0.309439124487
+
+Armor: 632
+% of Damage Taken 0.309289617486
+
+Armor: 633
+% of Damage Taken 0.309140518417
+
+Armor: 634
+% of Damage Taken 0.308991825613
+
+Armor: 635
+% of Damage Taken 0.308843537415
+
+Armor: 636
+% of Damage Taken 0.308695652174
+
+Armor: 637
+% of Damage Taken 0.30854816825
+
+Armor: 638
+% of Damage Taken 0.308401084011
+
+Armor: 639
+% of Damage Taken 0.308254397835
+
+Armor: 640
+% of Damage Taken 0.308108108108
+
+Armor: 641
+% of Damage Taken 0.307962213225
+
+Armor: 642
+% of Damage Taken 0.30781671159
+
+Armor: 643
+% of Damage Taken 0.307671601615
+
+Armor: 644
+% of Damage Taken 0.30752688172
+
+Armor: 645
+% of Damage Taken 0.307382550336
+
+Armor: 646
+% of Damage Taken 0.307238605898
+
+Armor: 647
+% of Damage Taken 0.307095046854
+
+Armor: 648
+% of Damage Taken 0.306951871658
+
+Armor: 649
+% of Damage Taken 0.306809078772
+
+Armor: 650
+% of Damage Taken 0.306666666667
+
+Armor: 651
+% of Damage Taken 0.306524633822
+
+Armor: 652
+% of Damage Taken 0.306382978723
+
+Armor: 653
+% of Damage Taken 0.306241699867
+
+Armor: 654
+% of Damage Taken 0.306100795756
+
+Armor: 655
+% of Damage Taken 0.305960264901
+
+Armor: 656
+% of Damage Taken 0.30582010582
+
+Armor: 657
+% of Damage Taken 0.305680317041
+
+Armor: 658
+% of Damage Taken 0.305540897098
+
+Armor: 659
+% of Damage Taken 0.305401844532
+
+Armor: 660
+% of Damage Taken 0.305263157895
+
+Armor: 661
+% of Damage Taken 0.305124835742
+
+Armor: 662
+% of Damage Taken 0.30498687664
+
+Armor: 663
+% of Damage Taken 0.304849279161
+
+Armor: 664
+% of Damage Taken 0.304712041885
+
+Armor: 665
+% of Damage Taken 0.304575163399
+
+Armor: 666
+% of Damage Taken 0.304438642298
+
+Armor: 667
+% of Damage Taken 0.304302477184
+
+Armor: 668
+% of Damage Taken 0.304166666667
+
+Armor: 669
+% of Damage Taken 0.304031209363
+
+Armor: 670
+% of Damage Taken 0.303896103896
+
+Armor: 671
+% of Damage Taken 0.303761348898
+
+Armor: 672
+% of Damage Taken 0.303626943005
+
+Armor: 673
+% of Damage Taken 0.303492884864
+
+Armor: 674
+% of Damage Taken 0.303359173127
+
+Armor: 675
+% of Damage Taken 0.303225806452
+
+Armor: 676
+% of Damage Taken 0.303092783505
+
+Armor: 677
+% of Damage Taken 0.30296010296
+
+Armor: 678
+% of Damage Taken 0.302827763496
+
+Armor: 679
+% of Damage Taken 0.3026957638
+
+Armor: 680
+% of Damage Taken 0.302564102564
+
+Armor: 681
+% of Damage Taken 0.302432778489
+
+Armor: 682
+% of Damage Taken 0.302301790281
+
+Armor: 683
+% of Damage Taken 0.302171136654
+
+Armor: 684
+% of Damage Taken 0.302040816327
+
+Armor: 685
+% of Damage Taken 0.301910828025
+
+Armor: 686
+% of Damage Taken 0.301781170483
+
+Armor: 687
+% of Damage Taken 0.30165184244
+
+Armor: 688
+% of Damage Taken 0.30152284264
+
+Armor: 689
+% of Damage Taken 0.301394169835
+
+Armor: 690
+% of Damage Taken 0.301265822785
+
+Armor: 691
+% of Damage Taken 0.301137800253
+
+Armor: 692
+% of Damage Taken 0.30101010101
+
+Armor: 693
+% of Damage Taken 0.300882723834
+
+Armor: 694
+% of Damage Taken 0.300755667506
+
+Armor: 695
+% of Damage Taken 0.300628930818
+
+Armor: 696
+% of Damage Taken 0.300502512563
+
+Armor: 697
+% of Damage Taken 0.300376411543
+
+Armor: 698
+% of Damage Taken 0.300250626566
+
+Armor: 699
+% of Damage Taken 0.300125156446
+
+Armor: 700
+% of Damage Taken 0.3
+
+Armor: 701
+% of Damage Taken 0.299875156055
+
+Armor: 702
+% of Damage Taken 0.299750623441
+
+Armor: 703
+% of Damage Taken 0.299626400996
+
+Armor: 704
+% of Damage Taken 0.299502487562
+
+Armor: 705
+% of Damage Taken 0.299378881988
+
+Armor: 706
+% of Damage Taken 0.299255583127
+
+Armor: 707
+% of Damage Taken 0.299132589839
+
+Armor: 708
+% of Damage Taken 0.29900990099
+
+Armor: 709
+% of Damage Taken 0.298887515451
+
+Armor: 710
+% of Damage Taken 0.298765432099
+
+Armor: 711
+% of Damage Taken 0.298643649815
+
+Armor: 712
+% of Damage Taken 0.298522167488
+
+Armor: 713
+% of Damage Taken 0.29840098401
+
+Armor: 714
+% of Damage Taken 0.29828009828
+
+Armor: 715
+% of Damage Taken 0.298159509202
+
+Armor: 716
+% of Damage Taken 0.298039215686
+
+Armor: 717
+% of Damage Taken 0.297919216646
+
+Armor: 718
+% of Damage Taken 0.297799511002
+
+Armor: 719
+% of Damage Taken 0.29768009768
+
+Armor: 720
+% of Damage Taken 0.29756097561
+
+Armor: 721
+% of Damage Taken 0.297442143727
+
+Armor: 722
+% of Damage Taken 0.297323600973
+
+Armor: 723
+% of Damage Taken 0.297205346294
+
+Armor: 724
+% of Damage Taken 0.297087378641
+
+Armor: 725
+% of Damage Taken 0.29696969697
+
+Armor: 726
+% of Damage Taken 0.296852300242
+
+Armor: 727
+% of Damage Taken 0.296735187424
+
+Armor: 728
+% of Damage Taken 0.296618357488
+
+Armor: 729
+% of Damage Taken 0.296501809409
+
+Armor: 730
+% of Damage Taken 0.296385542169
+
+Armor: 731
+% of Damage Taken 0.296269554753
+
+Armor: 732
+% of Damage Taken 0.296153846154
+
+Armor: 733
+% of Damage Taken 0.296038415366
+
+Armor: 734
+% of Damage Taken 0.295923261391
+
+Armor: 735
+% of Damage Taken 0.295808383234
+
+Armor: 736
+% of Damage Taken 0.295693779904
+
+Armor: 737
+% of Damage Taken 0.295579450418
+
+Armor: 738
+% of Damage Taken 0.295465393795
+
+Armor: 739
+% of Damage Taken 0.295351609058
+
+Armor: 740
+% of Damage Taken 0.295238095238
+
+Armor: 741
+% of Damage Taken 0.295124851367
+
+Armor: 742
+% of Damage Taken 0.295011876485
+
+Armor: 743
+% of Damage Taken 0.294899169632
+
+Armor: 744
+% of Damage Taken 0.294786729858
+
+Armor: 745
+% of Damage Taken 0.294674556213
+
+Armor: 746
+% of Damage Taken 0.294562647754
+
+Armor: 747
+% of Damage Taken 0.294451003542
+
+Armor: 748
+% of Damage Taken 0.294339622642
+
+Armor: 749
+% of Damage Taken 0.294228504122
+
+Armor: 750
+% of Damage Taken 0.294117647059
+
+Armor: 751
+% of Damage Taken 0.294007050529
+
+Armor: 752
+% of Damage Taken 0.293896713615
+
+Armor: 753
+% of Damage Taken 0.293786635404
+
+Armor: 754
+% of Damage Taken 0.293676814988
+
+Armor: 755
+% of Damage Taken 0.293567251462
+
+Armor: 756
+% of Damage Taken 0.293457943925
+
+Armor: 757
+% of Damage Taken 0.293348891482
+
+Armor: 758
+% of Damage Taken 0.29324009324
+
+Armor: 759
+% of Damage Taken 0.293131548312
+
+Armor: 760
+% of Damage Taken 0.293023255814
+
+Armor: 761
+% of Damage Taken 0.292915214866
+
+Armor: 762
+% of Damage Taken 0.292807424594
+
+Armor: 763
+% of Damage Taken 0.292699884125
+
+Armor: 764
+% of Damage Taken 0.292592592593
+
+Armor: 765
+% of Damage Taken 0.292485549133
+
+Armor: 766
+% of Damage Taken 0.292378752887
+
+Armor: 767
+% of Damage Taken 0.292272202999
+
+Armor: 768
+% of Damage Taken 0.292165898618
+
+Armor: 769
+% of Damage Taken 0.292059838895
+
+Armor: 770
+% of Damage Taken 0.291954022989
+
+Armor: 771
+% of Damage Taken 0.291848450057
+
+Armor: 772
+% of Damage Taken 0.291743119266
+
+Armor: 773
+% of Damage Taken 0.291638029782
+
+Armor: 774
+% of Damage Taken 0.291533180778
+
+Armor: 775
+% of Damage Taken 0.291428571429
+
+Armor: 776
+% of Damage Taken 0.291324200913
+
+Armor: 777
+% of Damage Taken 0.291220068415
+
+Armor: 778
+% of Damage Taken 0.291116173121
+
+Armor: 779
+% of Damage Taken 0.291012514221
+
+Armor: 780
+% of Damage Taken 0.290909090909
+
+Armor: 781
+% of Damage Taken 0.290805902384
+
+Armor: 782
+% of Damage Taken 0.290702947846
+
+Armor: 783
+% of Damage Taken 0.290600226501
+
+Armor: 784
+% of Damage Taken 0.290497737557
+
+Armor: 785
+% of Damage Taken 0.290395480226
+
+Armor: 786
+% of Damage Taken 0.290293453725
+
+Armor: 787
+% of Damage Taken 0.290191657272
+
+Armor: 788
+% of Damage Taken 0.29009009009
+
+Armor: 789
+% of Damage Taken 0.289988751406
+
+Armor: 790
+% of Damage Taken 0.289887640449
+
+Armor: 791
+% of Damage Taken 0.289786756453
+
+Armor: 792
+% of Damage Taken 0.289686098655
+
+Armor: 793
+% of Damage Taken 0.289585666293
+
+Armor: 794
+% of Damage Taken 0.289485458613
+
+Armor: 795
+% of Damage Taken 0.28938547486
+
+Armor: 796
+% of Damage Taken 0.289285714286
+
+Armor: 797
+% of Damage Taken 0.289186176143
+
+Armor: 798
+% of Damage Taken 0.289086859688
+
+Armor: 799
+% of Damage Taken 0.288987764182
+
+Armor: 800
+% of Damage Taken 0.288888888889
+
+Armor: 801
+% of Damage Taken 0.288790233074
+
+Armor: 802
+% of Damage Taken 0.288691796009
+
+Armor: 803
+% of Damage Taken 0.288593576966
+
+Armor: 804
+% of Damage Taken 0.288495575221
+
+Armor: 805
+% of Damage Taken 0.288397790055
+
+Armor: 806
+% of Damage Taken 0.288300220751
+
+Armor: 807
+% of Damage Taken 0.288202866593
+
+Armor: 808
+% of Damage Taken 0.288105726872
+
+Armor: 809
+% of Damage Taken 0.28800880088
+
+Armor: 810
+% of Damage Taken 0.287912087912
+
+Armor: 811
+% of Damage Taken 0.287815587267
+
+Armor: 812
+% of Damage Taken 0.287719298246
+
+Armor: 813
+% of Damage Taken 0.287623220153
+
+Armor: 814
+% of Damage Taken 0.287527352298
+
+Armor: 815
+% of Damage Taken 0.287431693989
+
+Armor: 816
+% of Damage Taken 0.287336244541
+
+Armor: 817
+% of Damage Taken 0.287241003272
+
+Armor: 818
+% of Damage Taken 0.287145969499
+
+Armor: 819
+% of Damage Taken 0.287051142546
+
+Armor: 820
+% of Damage Taken 0.286956521739
+
+Armor: 821
+% of Damage Taken 0.286862106406
+
+Armor: 822
+% of Damage Taken 0.286767895879
+
+Armor: 823
+% of Damage Taken 0.286673889491
+
+Armor: 824
+% of Damage Taken 0.28658008658
+
+Armor: 825
+% of Damage Taken 0.286486486486
+
+Armor: 826
+% of Damage Taken 0.286393088553
+
+Armor: 827
+% of Damage Taken 0.286299892125
+
+Armor: 828
+% of Damage Taken 0.286206896552
+
+Armor: 829
+% of Damage Taken 0.286114101184
+
+Armor: 830
+% of Damage Taken 0.286021505376
+
+Armor: 831
+% of Damage Taken 0.285929108485
+
+Armor: 832
+% of Damage Taken 0.285836909871
+
+Armor: 833
+% of Damage Taken 0.285744908896
+
+Armor: 834
+% of Damage Taken 0.285653104925
+
+Armor: 835
+% of Damage Taken 0.285561497326
+
+Armor: 836
+% of Damage Taken 0.28547008547
+
+Armor: 837
+% of Damage Taken 0.28537886873
+
+Armor: 838
+% of Damage Taken 0.285287846482
+
+Armor: 839
+% of Damage Taken 0.285197018104
+
+Armor: 840
+% of Damage Taken 0.285106382979
+
+Armor: 841
+% of Damage Taken 0.285015940489
+
+Armor: 842
+% of Damage Taken 0.284925690021
+
+Armor: 843
+% of Damage Taken 0.284835630965
+
+Armor: 844
+% of Damage Taken 0.284745762712
+
+Armor: 845
+% of Damage Taken 0.284656084656
+
+Armor: 846
+% of Damage Taken 0.284566596195
+
+Armor: 847
+% of Damage Taken 0.284477296727
+
+Armor: 848
+% of Damage Taken 0.284388185654
+
+Armor: 849
+% of Damage Taken 0.284299262381
+
+Armor: 850
+% of Damage Taken 0.284210526316
+
+Armor: 851
+% of Damage Taken 0.284121976866
+
+Armor: 852
+% of Damage Taken 0.284033613445
+
+Armor: 853
+% of Damage Taken 0.283945435467
+
+Armor: 854
+% of Damage Taken 0.283857442348
+
+Armor: 855
+% of Damage Taken 0.283769633508
+
+Armor: 856
+% of Damage Taken 0.283682008368
+
+Armor: 857
+% of Damage Taken 0.283594566353
+
+Armor: 858
+% of Damage Taken 0.283507306889
+
+Armor: 859
+% of Damage Taken 0.283420229406
+
+Armor: 860
+% of Damage Taken 0.283333333333
+
+Armor: 861
+% of Damage Taken 0.283246618106
+
+Armor: 862
+% of Damage Taken 0.28316008316
+
+Armor: 863
+% of Damage Taken 0.283073727934
+
+Armor: 864
+% of Damage Taken 0.282987551867
+
+Armor: 865
+% of Damage Taken 0.282901554404
+
+Armor: 866
+% of Damage Taken 0.28281573499
+
+Armor: 867
+% of Damage Taken 0.282730093071
+
+Armor: 868
+% of Damage Taken 0.282644628099
+
+Armor: 869
+% of Damage Taken 0.282559339525
+
+Armor: 870
+% of Damage Taken 0.282474226804
+
+Armor: 871
+% of Damage Taken 0.282389289392
+
+Armor: 872
+% of Damage Taken 0.282304526749
+
+Armor: 873
+% of Damage Taken 0.282219938335
+
+Armor: 874
+% of Damage Taken 0.282135523614
+
+Armor: 875
+% of Damage Taken 0.282051282051
+
+Armor: 876
+% of Damage Taken 0.281967213115
+
+Armor: 877
+% of Damage Taken 0.281883316274
+
+Armor: 878
+% of Damage Taken 0.281799591002
+
+Armor: 879
+% of Damage Taken 0.281716036772
+
+Armor: 880
+% of Damage Taken 0.281632653061
+
+Armor: 881
+% of Damage Taken 0.281549439348
+
+Armor: 882
+% of Damage Taken 0.281466395112
+
+Armor: 883
+% of Damage Taken 0.281383519837
+
+Armor: 884
+% of Damage Taken 0.281300813008
+
+Armor: 885
+% of Damage Taken 0.281218274112
+
+Armor: 886
+% of Damage Taken 0.281135902637
+
+Armor: 887
+% of Damage Taken 0.281053698075
+
+Armor: 888
+% of Damage Taken 0.280971659919
+
+Armor: 889
+% of Damage Taken 0.280889787664
+
+Armor: 890
+% of Damage Taken 0.280808080808
+
+Armor: 891
+% of Damage Taken 0.28072653885
+
+Armor: 892
+% of Damage Taken 0.28064516129
+
+Armor: 893
+% of Damage Taken 0.280563947633
+
+Armor: 894
+% of Damage Taken 0.280482897384
+
+Armor: 895
+% of Damage Taken 0.28040201005
+
+Armor: 896
+% of Damage Taken 0.280321285141
+
+Armor: 897
+% of Damage Taken 0.280240722166
+
+Armor: 898
+% of Damage Taken 0.280160320641
+
+Armor: 899
+% of Damage Taken 0.28008008008
+
+Armor: 900
+% of Damage Taken 0.28
+
+Armor: 901
+% of Damage Taken 0.27992007992
+
+Armor: 902
+% of Damage Taken 0.279840319361
+
+Armor: 903
+% of Damage Taken 0.279760717846
+
+Armor: 904
+% of Damage Taken 0.2796812749
+
+Armor: 905
+% of Damage Taken 0.27960199005
+
+Armor: 906
+% of Damage Taken 0.279522862823
+
+Armor: 907
+% of Damage Taken 0.279443892751
+
+Armor: 908
+% of Damage Taken 0.279365079365
+
+Armor: 909
+% of Damage Taken 0.2792864222
+
+Armor: 910
+% of Damage Taken 0.279207920792
+
+Armor: 911
+% of Damage Taken 0.279129574679
+
+Armor: 912
+% of Damage Taken 0.279051383399
+
+Armor: 913
+% of Damage Taken 0.278973346496
+
+Armor: 914
+% of Damage Taken 0.278895463511
+
+Armor: 915
+% of Damage Taken 0.27881773399
+
+Armor: 916
+% of Damage Taken 0.27874015748
+
+Armor: 917
+% of Damage Taken 0.27866273353
+
+Armor: 918
+% of Damage Taken 0.27858546169
+
+Armor: 919
+% of Damage Taken 0.278508341511
+
+Armor: 920
+% of Damage Taken 0.278431372549
+
+Armor: 921
+% of Damage Taken 0.278354554358
+
+Armor: 922
+% of Damage Taken 0.278277886497
+
+Armor: 923
+% of Damage Taken 0.278201368524
+
+Armor: 924
+% of Damage Taken 0.278125
+
+Armor: 925
+% of Damage Taken 0.278048780488
+
+Armor: 926
+% of Damage Taken 0.277972709552
+
+Armor: 927
+% of Damage Taken 0.277896786758
+
+Armor: 928
+% of Damage Taken 0.277821011673
+
+Armor: 929
+% of Damage Taken 0.277745383868
+
+Armor: 930
+% of Damage Taken 0.277669902913
+
+Armor: 931
+% of Damage Taken 0.27759456838
+
+Armor: 932
+% of Damage Taken 0.277519379845
+
+Armor: 933
+% of Damage Taken 0.277444336883
+
+Armor: 934
+% of Damage Taken 0.277369439072
+
+Armor: 935
+% of Damage Taken 0.27729468599
+
+Armor: 936
+% of Damage Taken 0.27722007722
+
+Armor: 937
+% of Damage Taken 0.277145612343
+
+Armor: 938
+% of Damage Taken 0.277071290944
+
+Armor: 939
+% of Damage Taken 0.276997112608
+
+Armor: 940
+% of Damage Taken 0.276923076923
+
+Armor: 941
+% of Damage Taken 0.276849183477
+
+Armor: 942
+% of Damage Taken 0.276775431862
+
+Armor: 943
+% of Damage Taken 0.276701821668
+
+Armor: 944
+% of Damage Taken 0.27662835249
+
+Armor: 945
+% of Damage Taken 0.276555023923
+
+Armor: 946
+% of Damage Taken 0.276481835564
+
+Armor: 947
+% of Damage Taken 0.276408787011
+
+Armor: 948
+% of Damage Taken 0.276335877863
+
+Armor: 949
+% of Damage Taken 0.276263107722
+
+Armor: 950
+% of Damage Taken 0.27619047619
+
+Armor: 951
+% of Damage Taken 0.276117982873
+
+Armor: 952
+% of Damage Taken 0.276045627376
+
+Armor: 953
+% of Damage Taken 0.275973409307
+
+Armor: 954
+% of Damage Taken 0.275901328273
+
+Armor: 955
+% of Damage Taken 0.275829383886
+
+Armor: 956
+% of Damage Taken 0.275757575758
+
+Armor: 957
+% of Damage Taken 0.2756859035
+
+Armor: 958
+% of Damage Taken 0.27561436673
+
+Armor: 959
+% of Damage Taken 0.275542965061
+
+Armor: 960
+% of Damage Taken 0.275471698113
+
+Armor: 961
+% of Damage Taken 0.275400565504
+
+Armor: 962
+% of Damage Taken 0.275329566855
+
+Armor: 963
+% of Damage Taken 0.275258701787
+
+Armor: 964
+% of Damage Taken 0.275187969925
+
+Armor: 965
+% of Damage Taken 0.275117370892
+
+Armor: 966
+% of Damage Taken 0.275046904315
+
+Armor: 967
+% of Damage Taken 0.274976569822
+
+Armor: 968
+% of Damage Taken 0.274906367041
+
+Armor: 969
+% of Damage Taken 0.274836295603
+
+Armor: 970
+% of Damage Taken 0.27476635514
+
+Armor: 971
+% of Damage Taken 0.274696545285
+
+Armor: 972
+% of Damage Taken 0.274626865672
+
+Armor: 973
+% of Damage Taken 0.274557315937
+
+Armor: 974
+% of Damage Taken 0.274487895717
+
+Armor: 975
+% of Damage Taken 0.274418604651
+
+Armor: 976
+% of Damage Taken 0.274349442379
+
+Armor: 977
+% of Damage Taken 0.274280408542
+
+Armor: 978
+% of Damage Taken 0.274211502783
+
+Armor: 979
+% of Damage Taken 0.274142724745
+
+Armor: 980
+% of Damage Taken 0.274074074074
+
+Armor: 981
+% of Damage Taken 0.274005550416
+
+Armor: 982
+% of Damage Taken 0.27393715342
+
+Armor: 983
+% of Damage Taken 0.273868882733
+
+Armor: 984
+% of Damage Taken 0.273800738007
+
+Armor: 985
+% of Damage Taken 0.273732718894
+
+Armor: 986
+% of Damage Taken 0.273664825046
+
+Armor: 987
+% of Damage Taken 0.273597056118
+
+Armor: 988
+% of Damage Taken 0.273529411765
+
+Armor: 989
+% of Damage Taken 0.273461891644
+
+Armor: 990
+% of Damage Taken 0.273394495413
+
+Armor: 991
+% of Damage Taken 0.273327222731
+
+Armor: 992
+% of Damage Taken 0.27326007326
+
+Armor: 993
+% of Damage Taken 0.273193046661
+
+Armor: 994
+% of Damage Taken 0.273126142596
+
+Armor: 995
+% of Damage Taken 0.273059360731
+
+Armor: 996
+% of Damage Taken 0.27299270073
+
+Armor: 997
+% of Damage Taken 0.272926162261
+
+Armor: 998
+% of Damage Taken 0.272859744991
+
+Armor: 999
+% of Damage Taken 0.27279344859
+
+Armor: 1000
+% of Damage Taken 0.272727272727
+
