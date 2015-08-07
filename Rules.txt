@@ -2,6 +2,7 @@ Changes:
 	[Richard] [6:19 PM 2015-07-14] Added Rules.
 	[Richard] [6:08 PM 2015-07-15] Fixed up rules; added Change.txt to Rule 3
 	[Andy] [8:24 PM 2015-07-29] Added Rule 5, for code concepts
+	[Richard] [4:51 PM 2015-08-07] Fixed Rule 5, Added Rule 6 for commits
 
 Rules:
 	1. All ideas must be in a tiered manner
@@ -14,12 +15,12 @@ Rules:
 
 	4. Ideas with different topics must be in different files
 	
-	5. In case of an idea on how to carry out the code (program concept), the idea will be its relative file, under
-	a header in this format:
+	5. In case of an idea on how to carry out the code (program concept), the idea will be its relative file, under a header in this format:
 	
 	{CODE CONCEPT}
 	Code # Related comments
 	{CODE CONCEPT} 
 	
-	Code concepts should be written in plaintext, but with reasonable syntax.
+	Code concepts should be written in Python or pseudo-code similar to Python, but with reasonable syntax.
 	
+	6. Commits must be in the format of [Name] Description
