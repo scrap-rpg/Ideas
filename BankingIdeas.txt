@@ -1,0 +1,22 @@
+SCRAP RPG
+	
+BANKING
+
+Changes/Comments:
+	[Andy/Richard] [11:22 AM 2015-08-12] *Created in Real Time*
+		- Initialized, added concept
+
+Concept:
+
+    Players have access to banks, in which they can access an 'account'.
+    In a bank account, money can be withdrawn or deposited by the thousands for a small fee.
+    Each nation has a few major towns, which all have banks.
+    At these banks, players must pay an entry fee to use a bank (once per bank only).
+    After that, they can use those banks to access the same account.
+    This means that a player can (in a way) buy memberships to banks all over
+    to make it easier to acces gold, without having to consatntly travel on trips to retrieve
+    their gold. The main incentive for players to pay the fines though, are from fear
+    of monsters. If a player is defeated, 1/2 of their money is lost. The banking system allows
+    for reliability, and gold hoarding later on in THE GAME when items begin to get expensive.
+    Items though, always stay with the player, even upon defeat. This means that the 'account'
+    is just stored as an integer variable. 
