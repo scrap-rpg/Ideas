@@ -1,9 +1,21 @@
 Comments/Changes:
 	[Richard] [11:30 AM 2015-08-02] Initialized
-	[Richard] <I am proposing an unusual form of combat in the form of *Energy>
+	[Richard] [???]<I am proposing an unusual form of combat in the form of *Energy>
+	[Richard] [8:47 PM 2015-08-22] <Added most/all of the framework for Combat>
+
+Engage:
+	While the Player is travelling in the wilderness (non-city areas), monsters will attempt to Engage them
+	Per "block" the Player travels, there is a chance that they will have to fight a group of monsters.
+	The chance is based on the average Agility of the group, and the Environment Agility (which steadily increases as the player explores more areas)
+
 	
 General:
-	Per turn, both players and monsters can 
+	Per turn, players, monsters, and NPC opponents can either attack, use abilities (spells), or use Energy type moves.
+	All entities can only do one move per turn (a move being a basic attack, spellcasts, or an Energy spellcast/attack)
+	However, in a boss fight, all entities can perform two moves per turn
+	The order of the moves being executed, depends RNG and the difference in agility.
+		i.e. The chance of one of your Players attacking first varies 35-65% based on the difference of average Agility per person.
+		(No formula yet)
 	
 *Energy:
 	Similar to how most games require mana on spellcasts, Energy Spells/Attacks require Energy
@@ -42,8 +54,8 @@ Anti-Armor (Penetration):
 	
 	Flat Penetration:
 		Reduce defender's armor by flat amount during damage calculation
-		Capped at 95% of defender's armor
-	
+		Capped at 90% of defender's armor
+
 	Percentage Penetration:
 		Reduce defender's armor by percentage during armor calculation
 		Capped at 35%
